@@ -1,3 +1,10 @@
+__author__ = "BRUNO Lúca"
+__copyright__ = "Copyright 2019"
+__credits__ = ["La balle et les padddle"]
+__version__ = "1.0"
+__email__ = "luca.bruno@ynov.com"
+__status__ = "Final"
+
 from tkinter import *
 import random
 
